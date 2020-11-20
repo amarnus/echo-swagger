@@ -1,4 +1,4 @@
-module github.com/swaggo/echo-swagger
+module github.com/amarnus/echo-swagger
 
 require (
 	github.com/kr/pty v1.1.5 // indirect
